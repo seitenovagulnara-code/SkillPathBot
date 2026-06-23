@@ -1,4 +1,4 @@
-python-telegram-bot==21.3
+python-telegram-bot==20.3
 joblib==1.4.2
 numpy==1.26.4
 scikit-learn==1.9.0
